@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="TextView_name">姓名</string>
+</resources>
